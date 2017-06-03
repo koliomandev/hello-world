@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 
 
@@ -12,3 +13,7 @@ namespace HelloCSharp
     }
 }
 
+=======
+# hello-world
+Just another repository
+>>>>>>> 108377a3267bb5708dd3c5e3df6c0794e6d5377b
